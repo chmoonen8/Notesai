@@ -43,11 +43,11 @@ jobs:
           cache: "npm"
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm install
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Build with Astro
-        run: pnpm astro build
+        run: npm run build
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Upload artifact
