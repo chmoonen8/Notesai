@@ -4,7 +4,7 @@ title: "Leverage Notes.ai to have more efficient meetings"
 snippet: "Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat"
 publishDate: "2024-3-10 15:36"
 image: {
-  src: "https://private-user-images.githubusercontent.com/12554767/311549436-b062612d-70bb-49a4-96e2-71cd78865749.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NTEyNjEsIm5iZiI6MTcxOTU1MDk2MSwicGF0aCI6Ii8xMjU1NDc2Ny8zMTE1NDk0MzYtYjA2MjYxMmQtNzBiYi00OWE0LTk2ZTItNzFjZDc4ODY1NzQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI4VDA1MDI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNzgyOGMyMmU1MmI0MjNhZjgxZjI1ZTYyNTQ3MjQyNTRkMmQzNDIwZGI2MWJjMTg4NzY2MDIwMTNjMGY1NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iSBBug34SUx5fnj1NOlRVfNFKPlASvF2ulbff-x8Mak",
+  src: "./blog.png",
   alt: "typography"
 }
 category: "Productivity"
@@ -44,7 +44,7 @@ Currently, Notes.ai is available on Mac App Store, follow the link below to down
 
 [https://apps.apple.com/us/app/notes-ai/id6477414161](https://apps.apple.com/us/app/notes-ai/id6477414161)
 
-![Super wide](https://private-user-images.githubusercontent.com/12554767/311549436-b062612d-70bb-49a4-96e2-71cd78865749.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NTEyNjEsIm5iZiI6MTcxOTU1MDk2MSwicGF0aCI6Ii8xMjU1NDc2Ny8zMTE1NDk0MzYtYjA2MjYxMmQtNzBiYi00OWE0LTk2ZTItNzFjZDc4ODY1NzQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI4VDA1MDI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNzgyOGMyMmU1MmI0MjNhZjgxZjI1ZTYyNTQ3MjQyNTRkMmQzNDIwZGI2MWJjMTg4NzY2MDIwMTNjMGY1NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iSBBug34SUx5fnj1NOlRVfNFKPlASvF2ulbff-x8Mak)
+![Super wide](./blog.png)
 
 
 [[Top]](#top)
