@@ -1,8 +1,32 @@
+---
+import { Icon } from "astro-icon/components";
+---
+
 <footer class="my-20">
+<div class="flex justify-center mt-8 md-8 space-x-4">
+    <a href="https://x.com/szhou4222" target="_blank" rel="noopener">
+      <Icon class="text-blue-500 w-6 h-6" name="uil:twitter" />
+    </a>
+    <a href="https://www.youtube.com/@helloworld7313/videos" target="_blank" rel="noopener">
+      <Icon class="text-red-500 w-6 h-6" name="uil:youtube" />
+    </a>
+    <a href="/" target="_blank" rel="noopener">
+      <Icon class="text-blue-800 w-6 h-6" name="uil:facebook" />
+    </a>
+  </div>
   <p class="text-center text-sm text-slate-500">
-    Copyright © {new Date().getFullYear()} Astroship. All rights reserved.
+    © {new Date().getFullYear()} Notes.ai Ltd. 
   </p>
-  <!--
+  <div class="flex justify-center">
+    <a href="/" class="text-sm text-slate-500 mx-2 hover:underline">
+      Terms
+    </a>
+    <span class="text-sm text-slate-500">|</span>
+    <a href="https://notes-ai.notion.site/Privacy-Policy-ebffe0142d56426aaa84971714de20c8" class="text-sm text-slate-500 mx-2 hover:underline">
+      Privacy
+    </a>
+  </div>
+  <!-
     Can we ask you a favor 🙏
     Please keep this backlink on your website if possible.
     or Purchase a commercial license from https://web3templates.com
