@@ -1,6 +1,13 @@
 ---
 // @ts-ignore
 import { Icon } from "astro-icon/components";
+import { Picture } from "astro:assets";
+import transcriptImage from "assets/transcription.png";
+import modelImage from "assets/model.png";
+import aiImage from "assets/ai.png";
+import notionImage from "assets/notion.png";
+import customerImage from "assets/customer.jpeg";
+
 
 const features = [
   {
@@ -70,11 +77,11 @@ const features = [
     </p>
   </div>
   <div class="flex justify-center">
-    <img src="/src/assets/transcription.png" alt="Description of Image" class="w-full"> 
+    <Picture src={transcriptImage} alt="Description of Image" class="w-full"> 
   </div>
 
   <div>
-    <img src="/src/assets/model.png" alt="Description of Image">
+    <Picture src={modelImage} alt="Description of Image">
   </div>
   <div>
     <h2 class="text-4xl lg:text-5xl mt-20 font-bold lg:tracking-tight">
@@ -94,11 +101,11 @@ const features = [
     </p>
   </div>
   <div>
-    <img src="/src/assets/ai.png" alt="Description of Image">
+    <Picture src={aiImage} alt="Description of Image">
   </div>
 
   <div>
-    <img src="/src/assets/notion.png" alt="Description of Image">
+    <Picture src={notionImage} alt="Description of Image">
   </div>
   <div>
     <h2 class="text-4xl lg:text-5xl mt-20 font-bold lg:tracking-tight">
@@ -122,7 +129,7 @@ const features = [
   <div class="grid sm:grid-cols-1 md:grid-cols-1 mt-16 gap-4 justify-center"> <!-- Change grid cols to 1 for full width -->
     <div class="p-10 bg-white rounded-lg shadow-md items-center" style="max-width: 900px; margin: auto; border: 0.8px solid black;"> <!-- Increased padding and set max-width -->
       <div class="flex items-center space-x-4">
-        <img src="/src/assets/customer.jpeg" alt="Christina Bretado" class="w-20 h-20 rounded-full"> <!-- Increased image size -->
+        <Picture src={customerImage} alt="Christina Bretado" class="w-20 h-20 rounded-full"> <!-- Increased image size -->
         <div>
           <p class="text-2xl font-semibold">Christina Bretado</p> <!-- Increased font size -->
           <p class="text-gray-500 text-">PM at Dropbox</p>
