@@ -6,6 +6,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astroship.web3templates.com",
+  site: "https://chmoonen8.github.io/notesai/",
+  base: "/notesai/",
   integrations: [tailwind(), mdx(), sitemap(), icon()],
 });
