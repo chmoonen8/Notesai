@@ -4,13 +4,14 @@ title: "Leverage Notes.ai to have more efficient meetings"
 snippet: "Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat"
 publishDate: "2024-3-10 15:36"
 image: {
-  src: "./blog.png",
+  src: "https://github.com/szhou42/notesai/assets/12554767/b062612d-70bb-49a4-96e2-71cd78865749",
   alt: "typography"
 }
 category: "Productivity"
 author: "Meisheng"
 tags: []
 ---
+
 
 A meeting is only as effective as the actionable takeaways your team derives from it. And hearing and articulating these action items can be difficult among the chaos. But a new teammate might be able to fill this gap: Notes.ai, the AI-powered note-taker seamlessly integrated with Notion. To unleash your productivity, download [Notes.ai](https://apps.apple.com/us/app/notes-ai/id6477414161) right now!
 
@@ -44,7 +45,7 @@ Currently, Notes.ai is available on Mac App Store, follow the link below to down
 
 [https://apps.apple.com/us/app/notes-ai/id6477414161](https://apps.apple.com/us/app/notes-ai/id6477414161)
 
-![Super wide](./blog.png)
+![Super wide](https://github.com/szhou42/notesai/assets/12554767/b062612d-70bb-49a4-96e2-71cd78865749)
 
 
 [[Top]](#top)
