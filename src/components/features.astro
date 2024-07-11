@@ -46,7 +46,7 @@ const features = [
   </div>
   
   <div style="max-width: 1200px; margin: auto;">
-  <div class="grid sm:grid-cols-2 md:grid-cols-2 mt-16 gap-x-8 gap-y-8 justify-center">
+  <div class="grid sm:grid-cols-2 md:grid-cols-2 mt-16 px-4 gap-x-8 gap-y-8 justify-center">
   {
     features.map((item) => (
       <div class="flex gap-4 items-start">
@@ -54,8 +54,8 @@ const features = [
           <Icon class="text-white" name={item.icon} />
         </div>
         <div>
-          <h3 class="font-semibold text-xl max-w-xl"">{item.title}</h3>{" "}
-          <div class="mx-auto" style="max-width: 800px;">
+          <h3 class="font-semibold text-xl max-w-lg"">{item.title}</h3>{" "}
+          <div class="mx-auto max-w-lg">
             <p class="text-slate-500 text-lg mt-2 leading-relaxed max-w-xl">{item.description}</p>
           </div> 
         </div>
