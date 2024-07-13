@@ -25,8 +25,6 @@ Feeing overwheled to watch an hour long youtube video? no problem, paste the you
 
 ## 3 Benefits of Notes.ai
 
-Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim. Incididunt enim excepteur do veniam consequat culpa do voluptate dolor fugiat ad adipisicing sit. Labore officia est adipisicing dolore proident eiusmod exercitation deserunt ullamco anim do occaecat velit. Elit dolor consectetur proident sunt aliquip est do tempor quis aliqua culpa aute. Duis in tempor exercitation pariatur et adipisicing mollit irure tempor ut enim esse commodo laboris proident. Do excepteur laborum anim esse aliquip eu sit id Lorem incididunt elit irure ea nulla dolor et. Nulla amet fugiat qui minim deserunt enim eu cupidatat aute officia do velit ea reprehenderit.
-
 ### Increased Productivity
 
 Inefficient tools and processes slow you down. Let Notes.ai take on repetitive tasks — like note-taking and oragnizing the notes — to free you up for more meaningful work.
